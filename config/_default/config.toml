@@ -1,6 +1,5 @@
 # Change baseurl before deploy
-#baseurl      = "https://chimeralens.github.io/craft-site"
-baseurl      = "https://chimeralens.net"
+baseurl      = "https://chimeralens.github.io/craft-site"
 languageCode = "en-us"
 title        = "ChimeraLens"
 
