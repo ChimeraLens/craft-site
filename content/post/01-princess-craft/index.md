@@ -23,4 +23,4 @@ I would like to remake it some day. The scaling is a bit too large and I didn't 
 
 ## Download
 
-[Download (.pdo)](https://pepakura.tamasoft.co.jp/pepakura_designer/pepakura-gallery/dl.php?ext=pdo&id=2815&t=884978683.5)
+[Download (.pdo)](https://pepakura.tamasoft.co.jp/pepakura_designer/pepakura-gallery/dl.php?ext=pdo&id=2815&t=885078364.5)

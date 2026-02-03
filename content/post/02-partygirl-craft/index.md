@@ -23,4 +23,4 @@ Like with the Princess, I would like to remake this one. I feel like I could mak
 
 ## Download
 
-[Download (.zip)](https://pepakura.tamasoft.co.jp/pepakura_designer/pepakura-gallery/dl.php?ext=zip&id=2818&t=884695366.5)
+[Download (.zip)](https://pepakura.tamasoft.co.jp/pepakura_designer/pepakura-gallery/dl.php?ext=zip&id=2818&t=885078404.5)
