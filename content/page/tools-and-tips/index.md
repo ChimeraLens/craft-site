@@ -13,6 +13,8 @@ menu:
 
 ## Tools I use
 
+![Papercraft Tools](tools.jpg)
+
 - Craft Knife & Scissors: The main tools I use to cut out parts. I use my craft knife more than my scissors, as it's more comfortable for me.
 
 - Craft Glue & Toothpicks: Typical tacky glue, and the toothpicks are useful for applying glue.
