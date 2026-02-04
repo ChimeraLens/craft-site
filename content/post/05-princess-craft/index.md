@@ -25,4 +25,4 @@ Assembly shouldn't be too complex but I did include instructions.
 
 ## Download
 
-[Download (.pdo)](https://pepakura-designer.com/community/my_download_file.php?post_id=350&file_id=349)
+[Download (.pdo) (14.1 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=350&file_id=349)

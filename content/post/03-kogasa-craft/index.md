@@ -6,7 +6,7 @@ categories = ['Papercrafts']
 tags = ['Touhou Project','Kogasa Tatara']
 +++
 
-Favorite 2hu Character 
+Favorite 2hu Character
 
 Assembly may seem complex but should be straight-forward. I used the same paper for both Kogasa and the umbrella, but I would recommend creating the umbrella with light paper, if possible.
 
@@ -23,4 +23,4 @@ Assembly may seem complex but should be straight-forward. I used the same paper 
 
 ## Download
 
-[Download (.zip)](https://pepakura.tamasoft.co.jp/pepakura_designer/pepakura-gallery/dl.php?ext=zip&id=2822&t=885078433)
+[Download (.zip) (16.1 MB)](https://pepakura.tamasoft.co.jp/pepakura_designer/pepakura-gallery/dl.php?ext=zip&id=2822&t=885078433)

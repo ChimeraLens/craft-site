@@ -21,4 +21,4 @@ I used the same paper for the stand and for Cirno. I also didn't use any copper 
 
 ## Download
 
-[Download (.pdo)](https://pepakura-designer.com/community/my_download_file.php?post_id=626&file_id=625)
+[Download (.pdo) (14.3 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=626&file_id=625)

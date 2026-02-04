@@ -24,4 +24,4 @@ I also wanted the clothes to make sense with her wings. I know it's an unnecessa
 
 ## Download
 
-[Download (.pdo)](https://pepakura-designer.com/community/my_download_file.php?post_id=527&file_id=526)
+[Download (.pdo) (14.0 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=527&file_id=526)

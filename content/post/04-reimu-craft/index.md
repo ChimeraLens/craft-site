@@ -24,4 +24,4 @@ I also included the instructions on the pepakura file.
 
 ## Download
 
-[Download (.pdo)](https://pepakura-designer.com/community/my_download_file.php?post_id=372&file_id=371)
+[Download (.pdo) (11.6 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=372&file_id=371)

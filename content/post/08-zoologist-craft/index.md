@@ -23,4 +23,4 @@ Like with Cirno, the model stands on its own with just paper.
 
 ## Download
 
-[Download (.pdo)](https://pepakura-designer.com/community/my_download_file.php?post_id=689&file_id=686)
+[Download (.pdo) (13.3 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=689&file_id=686)
