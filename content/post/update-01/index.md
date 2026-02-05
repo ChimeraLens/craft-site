@@ -1,5 +1,6 @@
 +++
 date = '2026-02-03'
+lastmod = '2026-02-05'
 title = 'Papercraft Updates I'
 categories = ['Updates']
 tags = ['Terraria','Touhou Project','Stylist','Yuyuko Saigyouji','WIP']
