@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = ""
-    subtitle = "Papercraft Creator"
+    subtitle = "Personal Papercraft Blog"
     avatar   = "img/avatar.png"
 
 [article]
