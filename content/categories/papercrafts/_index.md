@@ -4,6 +4,6 @@ description: All the Papercrafts I've made.
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#1C5659"
     color: "#fff"
 ---
