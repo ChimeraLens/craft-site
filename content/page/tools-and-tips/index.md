@@ -6,7 +6,7 @@ aliases:
   - tips
 menu:
     main: 
-        weight: 2
+        weight: 3
         params:
             icon: scissors
 ---
