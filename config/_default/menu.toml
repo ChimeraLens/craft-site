@@ -22,3 +22,14 @@
 
     [social.params]
         icon = "pixiv-outline"
+
+[[main]]
+    identifier = "supportme"
+    name       = "Support Me"
+    url        = "https://ko-fi.com/chimeralens"
+    weight     = 4
+
+    [main.params]
+        icon = "heart"
+        newtab = true
+        
