@@ -10,15 +10,15 @@ I'm currently working on two models:
 
 ## Stylist [Terraria]
 
-![Front](stylist-wip1.png)  ![Back](stylist-wip2.png)  ![Right](stylist-wip3.png)  ![Left](stylist-wip4.png)
+![Front](stylist-wip1.jpg)  ![Back](stylist-wip2.jpg)  ![Right](stylist-wip3.jpg)  ![Left](stylist-wip4.jpg)
 
-![With Apron](stylist-wip5.png)  ![Without Apron](stylist-wip6.png)
+![With Apron](stylist-wip5.jpg)  ![Without Apron](stylist-wip6.jpg)
 
 The template for the Stylist is almost done, I'm still making small adjustments. Once I'm done with that, I can start the assembly.
 
 ## Yuyuko Saigyouji [Touhou Project]
 
-![Front](yuyuko-wip1.png)
+![Front](yuyuko-wip1.jpg)
 
 I have most of the textures done. I tried different designs on the kimono, but decided on keep the design simple with cherry blossoms.
 
