@@ -23,6 +23,8 @@ Assembly shouldn't be too complex but I did include instructions.
 - 158 Parts
 - 8 pages + 2 back
 
-## Download
+## Downloads
 
 [Download (.pdo) (14.1 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=350&file_id=349)
+
+[Instructions (.zip) (2.55 MB)](Instructions-Princess.zip)

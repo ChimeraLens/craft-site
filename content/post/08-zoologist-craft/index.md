@@ -21,6 +21,8 @@ Like with Cirno, the model stands on its own with just paper.
 - 162 Parts
 - 6 pages + 2 back
 
-## Download
+## Downloads
 
 [Download (.pdo) (13.3 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=689&file_id=686)
+
+[Instructions (.zip) (1.36 MB)](Instructions-Zoologist.zip)

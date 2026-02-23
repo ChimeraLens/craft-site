@@ -22,6 +22,8 @@ I also included the instructions on the pepakura file.
 - 195 Parts
 - 8 pages + 1 back
 
-## Download
+## Downloads
 
 [Download (.pdo) (11.6 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=372&file_id=371)
+
+[Instructions (.zip) (2.46 MB)](Instructions-Reimu.zip)

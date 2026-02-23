@@ -25,6 +25,8 @@ Without Apron
 - 149 Parts
 - 6 pages + 2 back
 
-## Download
+## Downloads
 
 [Download (.pdo) (10.9 MB)](https://pepakura-designer.com/community/my_download_file.php?post_id=796&file_id=795)
+
+[Instructions (.zip) (2.93 MB)](Instructions-Stylist.zip)
