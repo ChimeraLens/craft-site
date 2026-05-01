@@ -1,6 +1,6 @@
 +++
 date = '2026-03-03'
-title = 'Papercraft Updates II'
+title = 'Papercraft Updates (March 2026)'
 categories = ['Updates']
 tags = ['Touhou Project','Yuyuko Saigyouji','WIP']
 +++
